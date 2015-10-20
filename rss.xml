@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LoganJamesLiving]]></title>
         <description><![CDATA[LoganJamesLiving]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loganjamesliving/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 14:32:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 14:46:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loganjamesliving/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Duplex Renovations]]></title>
+            <description><![CDATA[<article><h1>5 Duplex Renovations</h1><p>These revamped homes illustrate how completely spaces can be reimagined.</p><img src="http://assets.dwell.com/sites/default/files/2013/01/09/local-roots-facade-rectangle.jpg"></article>]]></description>
+            <link>http://www.dwell.com/houses-we-love/article/5-duplex-renovations</link>
+            <guid isPermaLink="false">6cffbb6a-da56-4474-903a-9c429115ea44</guid>
+            <pubDate>Tue, 20 Oct 2015 14:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/loganjamesliving/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">12ed9ded-8309-4985-a6d4-81aae150176f</guid>
             <pubDate>Tue, 20 Oct 2015 14:32:29 GMT</pubDate>
         </item>
