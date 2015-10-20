@@ -1,4 +1,4 @@
-name: null
+name: LoganJamesLiving
 favicon: null
 layout_spectrum: 0.34979433310218155
 typography_spectrum: 0.38734699529595673
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.3728263066150248
+  brandColors:
+    - '#ffffff'
+    - '#00c6b7'
+    - '#ff8e33'
+    - '#5dddd4'
+    - '#b9f1eb'
+  brandStrength: 0.5625
   lightness: 0.7338610934093595
   saturation: 0.8007007171399891
   rhythmicContrast: 0.6907004648819566
