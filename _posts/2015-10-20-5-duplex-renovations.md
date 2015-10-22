@@ -16,8 +16,8 @@ keywords:
   - incorporated
   - modern
 description: These revamped homes illustrate how completely spaces can be reimagined.
-datePublished: '2015-10-20T14:46:55.516Z'
-dateModified: '2015-10-20T14:46:43.909Z'
+datePublished: '2015-10-22T19:53:23.361Z'
+dateModified: '2015-10-22T19:48:05.343Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>5 Duplex Renovations</h1><p>These revamped homes illustrate how completely spaces can be reimagined&amp;period;</p><img src="http://assets.dwell.com/sites/default/files/2013/01/09/local-roots-facade-rectangle.jpg" /></article>
+<article style=""><h1>5 Duplex Renovations</h1><p>These revamped homes illustrate how completely spaces can be reimagined.</p><img src="http://assets.dwell.com/sites/default/files/2013/01/09/local-roots-facade-rectangle.jpg" /></article>
